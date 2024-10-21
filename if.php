@@ -8,9 +8,11 @@ $t = date("S");
 if ($t < "10") {
   echo "Semangat!";
 } else {
-  echo "Sukses!";
+  echo "Suksess!";
 }
 ?>
  
 </body>
 </html>
+
+

@@ -6,9 +6,9 @@
 $a = 4;
 $b = "Zahra";
 
-echo $x;
+echo $a;
 echo "<br>";
-echo $y;
+echo $b;
 ?>
 
 </body>

@@ -6,7 +6,7 @@
 <?php
 $h = 2;       // Integer
 $i = 2.24;    // Float
-$j = "14 meters"; // String
+$j = "14 meters"; 
 $k = "meters 14"; // String
 $l = "zahra"; // String
 $m = true;    // Boolean
@@ -31,7 +31,8 @@ var_dump($n);
 ?> 
 </pre>
 
-<p>Note that when casting a string that starts with a number, the (int) function uses that number. If it does not start with a number, the (int) function convert strings into the number 0.</p>
+<p>Note that when casting a string that starts with a number, the (int) function uses that number. 
+    If it does not start with a number, the (int) function convert strings into the number 0.</p>
 
 </body>
 </html>

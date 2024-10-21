@@ -8,7 +8,7 @@ var_dump($x);
 
 echo "<br>";
 
-$x = "Semangt";
+$x = "Semangatt!";
 var_dump($x);
 ?> 
 
